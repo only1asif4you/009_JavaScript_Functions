@@ -1,0 +1,19 @@
+JavaScript Functions :
+
+Function Invocation :
+1. Code-Driven Invocation 
+2. Event-Driver Invocation 
+3. Automatic (Self-Invoked) Invocation 
+
+4. Method Invocation 
+5. Constructor Invocation
+6. Indirect Invocation 
+
+
+# Parameter : 
+Functions parameters are listed inside the parentheses () in the function definition.
+
+# Arguments :
+Functions arguments are the values received by the function when its invoked.
+
+* Invokes = Calls *
